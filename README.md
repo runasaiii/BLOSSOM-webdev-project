@@ -38,6 +38,8 @@ Nazerke Zheken
 - Two FBV views (e.g., login, logout) and two CBV APIViews.  
 - Relationships with ForeignKey and ManyToMany.  
 
+---
+
 **Additional Features**
 - Weather-based outfit suggestions.  
 - Style tips and outfit recommendations.  
