@@ -3,7 +3,9 @@ Fashion Closet is a virtual wardrobe application designed to help users organize
 
 💖 **Team Members**
 Aruna Karagulova
+
 Dariya Kapuzaeva
+
 Nazerke Zheken
 
 ✨ **Features**
@@ -31,7 +33,7 @@ Two FBV DRF views (e.g., login and logout).
 Two CBV APIViews for advanced functionality.
 Association between models using ForeignKey and ManyToMany relationships.
 
-🚀 Additional Features
+Additional Features
 Weather-based outfit recommendations.
 Style tips and outfit suggestions.
 Statistics to track clothing usage.
