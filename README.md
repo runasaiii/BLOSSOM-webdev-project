@@ -36,6 +36,7 @@ HTTP interceptor for token management.
 
 
 
+
 Backend
 
 Models:
@@ -60,9 +61,17 @@ Two CBV APIViews for advanced functionality.
 
 Association between models using ForeignKey and ManyToMany relationships.
 
+
+
 Additional Features
+
+
 Weather-based outfit recommendations.
+
 Style tips and outfit suggestions.
+
 Statistics to track clothing usage.
+
 "Random Outfit" feature for spontaneous styling.
+
 Social sharing options for outfits.
